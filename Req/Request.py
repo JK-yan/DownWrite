@@ -82,9 +82,14 @@ class AnalysisUrl:
             self.relationship[self.course[i]] = relationship
         return self.relationship
 
-    def write_json(self):
-        f = open('course.json', mode='w', encoding='utf-8')
-        f.write(json.dumps(self.get_course_url_relationship(), ensure_ascii=False, indent=4))
+    def write_json(self, filename='course.json'):
+        try:
+            f = open(filename, mode='w', encoding='utf-8')
+            f.write(json.dumps(self.get_course_url_relationship(), ensure_ascii=False, indent=4))
+            f.close()
+        except Exception as e:
+            e.with_traceback(e)
+            # print(e)
 
 
 if __name__ == '__main__':

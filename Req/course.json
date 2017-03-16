@@ -7,12 +7,7 @@
             "test1.asp?term_identify=2017_1&userid=716101520010&courseid=1767&resourceid=239426&username=&ishd=1",
             "test1.asp?term_identify=2017_1&userid=716101520010&courseid=1767&resourceid=239427&username=&ishd=1",
             "test1.asp?term_identify=2017_1&userid=716101520010&courseid=1767&resourceid=240420&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=1767&resourceid=240421&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=1767&resourceid=240422&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=1767&resourceid=240423&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=1767&resourceid=240743&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=1767&resourceid=240744&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=1767&resourceid=240745&username=&ishd=1"
+            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=1767&resourceid=240421&username=&ishd=1"
         ]
     },
     "数据结构": {
@@ -43,9 +38,7 @@
             "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2719&resourceid=240465&username=&ishd=1",
             "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2719&resourceid=240466&username=&ishd=1",
             "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2719&resourceid=240467&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2719&resourceid=240749&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2719&resourceid=240750&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2719&resourceid=240751&username=&ishd=1"
+            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2719&resourceid=240749&username=&ishd=1"
         ]
     },
     "应用软件开发（C＃）": {
@@ -59,15 +52,7 @@
             "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2839&resourceid=234151&username=&ishd=1",
             "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2839&resourceid=234152&username=&ishd=1",
             "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2839&resourceid=234153&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2839&resourceid=234155&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2839&resourceid=234156&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2839&resourceid=234158&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2839&resourceid=234160&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2839&resourceid=234161&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2839&resourceid=234162&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2839&resourceid=234163&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2839&resourceid=234164&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2839&resourceid=234165&username=&ishd=1"
+            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2839&resourceid=234155&username=&ishd=1"
         ]
     },
     "大学英语（三)": {
@@ -75,9 +60,7 @@
             "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2064&resourceid=240021&username=&ishd=1",
             "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2064&resourceid=240022&username=&ishd=1",
             "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2064&resourceid=240528&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2064&resourceid=240529&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2064&resourceid=240772&username=&ishd=1",
-            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2064&resourceid=240773&username=&ishd=1"
+            "test1.asp?term_identify=2017_1&userid=716101520010&courseid=2064&resourceid=240529&username=&ishd=1"
         ]
     }
 }
