@@ -37,8 +37,8 @@ def need_down_url(file_name='course.json'):
             print(AnalysisUrl.course[i] + "------课程没有更新")
             continue
         else:
-            for a in range(len(local_url), len(link_url)):
-                new_url.append(link_url[a])
+            for aw in range(len(local_url), len(link_url)):
+                new_url.append(link_url[aw])
             course_new_url[AnalysisUrl.course[i]] = new_url
             continue
     return course_new_url
@@ -51,13 +51,12 @@ class JdThread(threading.Thread):
         self.org_url = 'http://www.onlinesjtu.com/learningspace/learning/student/'
 
     def run(self):
-        print(threading.currentThread().getName())
-
         for b in course_new_url[self.key]:
+            print('线程开始'+threading.currentThread().getName())
             xx = self.org_url + b
-            print(str(time.ctime()) + self.key + xx)
-            # print(threading.currentThread().getName())
-            time.sleep(2)
+            print(str(time.ctime()) + self.key+': ' + xx)
+            time.sleep(1)
+        print('线程结束'+threading.currentThread().getName())
 
 if __name__ == '__main__':
     # json_course('coursesss.json')
@@ -76,8 +75,8 @@ if __name__ == '__main__':
         threads.append(j)
     for i in threads:
         i.start()
-    for i in threads:
-        i.join()
+    # for i in threads:
+    #     i.join()
     # j = JdThread(a)
     # j.start()
     # j.join()
